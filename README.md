@@ -167,8 +167,7 @@ Before getting started, make sure you have:
 ### 1️⃣ Clone This Repository
 
 ```bash
-git clone https://github.com/hsjadeja-7117/DevOps-mini-project-using-Jenkins-CI-CD.git
-cd DevOps-mini-project-using-Jenkins-CI-CD
+git clone https://github.com/panchaldhairya16/Jenkins-CI-CD-Static-Website-Host.git
 ```
 
 ---
