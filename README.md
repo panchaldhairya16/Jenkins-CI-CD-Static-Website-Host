@@ -145,9 +145,7 @@ flowchart TD
 
 ```
 📦 DevOps-mini-project-using-Jenkins-CI-CD/
-├── 📄 index.html          # Main web application file
-├── 📜 deploy.sh           # Shell script executed by Jenkins
-├── 📋 Jenkinsfile         # (Optional) Pipeline as Code
+├── 📄 index.php        # Main web application file
 └── 📖 README.md           # You are here!
 ```
 
