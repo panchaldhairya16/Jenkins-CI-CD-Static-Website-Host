@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <h1>Hello World 🚀</h1>
+    <h1>Panchal Dhairya Test</h1>
 
     <?php
         echo "<p>Welcome to my PHP 8.2 Portfolio Website!</p>";
