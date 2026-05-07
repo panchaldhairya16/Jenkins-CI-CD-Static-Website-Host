@@ -47,7 +47,7 @@ This project demonstrates a **real-world CI/CD pipeline** that automates code in
 |---|---|
 | 🔁 **Trigger** | Jenkins polls GitHub every **1 minute** |
 | 🖥️ **CI Server** | Jenkins running on a **RHEL 9 VM** |
-| 📦 **Source Code** | Hosted on **GitHub** (`index.php` + shell script) |
+| 📦 **Source Code** | Hosted on **GitHub** (`index.php`) |
 | ☁️ **Deploy Target** | **Microsoft Azure App Service** |
 | 🔗 **Deploy Method** | `git push` via **HTTPS from Jenkins** |
 | ⏱️ **Deploy Time** | ~60 seconds after a `git commit` |
