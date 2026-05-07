@@ -362,7 +362,7 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 <div align="center">
 
-**Made with ❤️ by [hsjadeja-7117](https://github.com/hsjadeja-7117)**
+**Made with ❤️ by [panchaldhairya16](https://github.com/panchaldhairya16)**
 
 <br/>
 
