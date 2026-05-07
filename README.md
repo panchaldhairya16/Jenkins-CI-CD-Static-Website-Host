@@ -321,16 +321,6 @@ az webapp deployment list-publishing-credentials \
 
 ---
 
-## 📸 Screenshots
-
-> _Replace placeholders below with your actual project screenshots._
-
-| Jenkins Dashboard | Build Console Output | Azure Live Site |
-|:-:|:-:|:-:|
-| ![Jenkins](https://via.placeholder.com/280x160/D24939/ffffff?text=Jenkins+Dashboard) | ![Console](https://via.placeholder.com/280x160/2d333b/ffffff?text=Build+Console) | ![Azure](https://via.placeholder.com/280x160/0078D4/ffffff?text=Azure+Live+Site) |
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
